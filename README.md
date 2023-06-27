@@ -1,3 +1,4 @@
+<h1 align="center"> Welcome To My GitHub Profile !</h1>
 <h1 align="center">Hi 👋, I am Duygu, a JR. Software Developer 🚀🚀.</h1>
 
 
