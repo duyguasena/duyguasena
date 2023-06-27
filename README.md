@@ -1,4 +1,5 @@
-<h1 align="center"> Welcome To My GitHub Profile !</h1>
+<h1 align="left"> Welcome To My GitHub Profile !</h1>
+<img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="">
 <h1 align="center">Hi 👋, I am Duygu, a JR. Software Developer 🚀🚀.</h1>
 
 
