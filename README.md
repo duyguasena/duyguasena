@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Duygu, a JR. Software Developer 🚀🚀.</h1>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+
 
 - 🌱 I know HTML, CSS, Bootstrap and C#
 - 🌱 I’m currently learning **Java**
